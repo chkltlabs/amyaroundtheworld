@@ -9,6 +9,7 @@
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: true,
   // The various configurable Tailwind configuration files.
   presets: [
     require('tailwindcss/defaultConfig'),
